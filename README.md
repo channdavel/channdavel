@@ -3,7 +3,7 @@
 </div>
 
 
-  <img src="https://img.shields.io/badge/-linkedin-0073B1?style=flat-square"(http://linkedin.com/)/>
+  <a href="http://linkedin.com/"><img src="https://img.shields.io/badge/-linkedin-0073B1?style=flat-square"></a>
   [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/yoo__who)
   [![](https://img.shields.io/badge/-resume-332B40?style=flat-square&color=449293)](https://resume.io/)
   [![](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white&color=9298ba)]()
