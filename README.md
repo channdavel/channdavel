@@ -20,7 +20,7 @@
   <a href="https://github.com/yoowho/github-readme-stats">
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yoowho&theme=dracula" />
   </a>
-  <a href="https://github.com/yoowho/yoowho.github.io">
+  <a href="https://github.com/yoowho/yoowho">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoowho&theme=dracula" />
   </a>
 </div>
