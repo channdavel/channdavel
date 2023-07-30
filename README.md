@@ -6,8 +6,6 @@
   <a href="http://linkedin.com/"><img src="https://img.shields.io/badge/-linkedin-0073B1?style=flat-square"></a>
   <a href="https://twitter.com/yoo__who"><img src="https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square"></a>
   <a href="https://resume.io/"><img src="https://img.shields.io/badge/-resume-332B40?style=flat-square&color=449293"></a>
-  <a href=""><img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white&color=554493"></a>
-  <a href=""><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white&color=998fbe"></a>
   <a href=""><img src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
   <a href=""><img src="https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
   <a href=""><img src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
