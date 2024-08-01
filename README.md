@@ -12,15 +12,6 @@
   <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&color=ffb977"></a>
   <img src="https://komarev.com/ghpvc/?username=yoowho&style=flat-square&color=blue" alt="profile views"/>
 </div>
-
----
-<div align="center">
-  <a href="https://github.com/yoowho/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yoowho&theme=dracula" />
-  </a>
-  <a href="https://github.com/yoowho/yoowho">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoowho&theme=dracula" />
-  </a>
 </div>
 
 
