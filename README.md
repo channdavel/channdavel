@@ -1,8 +1,4 @@
 <div align="center">
-  <img max-width="800" src="https://github.com/yoowho/yoowho/blob/30b14ccc1f1f48f64fe3358a4e9ddd07c7a9dd8b/banner.png"/>
-</div>
-
-<div align="center">
   <a href="http://linkedin.com/"><img src="https://img.shields.io/badge/-linkedin-0073B1?style=flat-square"></a>
   <a href="https://twitter.com/yoo__who"><img src="https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square"></a>
   <a href="https://resume.io/"><img src="https://img.shields.io/badge/-resume-332B40?style=flat-square&color=449293"></a>
