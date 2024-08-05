@@ -12,7 +12,7 @@ const ck = {
 
 ```
 <div align="center">
-  <a href="http://linkedin.com/"><img src="https://img.shields.io/badge/-linkedin-0073B1?style=flat-square"></a>
+  <a href="http://linkedin.com/in/channdavel/"><img src="https://img.shields.io/badge/-linkedin-0073B1?style=flat-square"></a>
   <a href="https://twitter.com/yoo__who"><img src="https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square"></a>
   <a href="https://resume.io/"><img src="https://img.shields.io/badge/-resume-332B40?style=flat-square&color=449293"></a>
   <a href=""><img src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
