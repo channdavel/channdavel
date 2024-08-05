@@ -1,3 +1,16 @@
+<h2>hi, i'm ck <img src="https://media.giphy.com/media/g7D56JfiVGPBLur2Ru/giphy.gif" width="30" height="30" /></h2>
+
+
+```javascript
+const ck = {
+  pronouns: ["he", "him"],
+  code: ["javascript", "C++", "python", "java", "html", "css"],
+  tools: ["react", "next.js", "tailwind", "mongodb"],
+  school: ["university of pittsburgh"],
+  }
+}
+
+```
 <div align="center">
   <a href="http://linkedin.com/"><img src="https://img.shields.io/badge/-linkedin-0073B1?style=flat-square"></a>
   <a href="https://twitter.com/yoo__who"><img src="https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square"></a>
