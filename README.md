@@ -6,7 +6,7 @@ const ck = {
   pronouns: ["he", "him"],
   code: ["javascript", "C++", "python", "java", "html", "css"],
   tools: ["react", "next.js", "tailwind", "mongodb"],
-  school: ["university of pittsburgh"],
+  school: ["university of pittsburgh"]
   }
 }
 
